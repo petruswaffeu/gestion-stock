@@ -1,4 +1,4 @@
-# gestion-stock
+
 # Gestion de Stock PHP
 
 Application web de gestion de stock développée en PHP.
